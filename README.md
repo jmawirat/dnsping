@@ -1,6 +1,6 @@
 # dnsping
 
-DNSPING is a go application that allows the user to measure the performance on how the users dns is resolving IP address to Domain name and Domain name to IP address
+DNSPING is a go application that allows the user to measure the performance on how the users dns is resolving IP address to Domain name and Domain name to IP address.
 
 # Usage
 
@@ -40,3 +40,8 @@ resolved facebook.com to 157.240.15.35 resolution_seq=3 time=2.704366ms
 resolved facebook.com to 157.240.15.35 resolution_seq=4 time=2.836854ms
 resolved facebook.com to 157.240.15.35 resolution_seq=5 time=2.491492ms
 ```
+
+# Roadmap
+
+⋅⋅1. Add Maximum, Minimum and Average Resolution time.
+⋅⋅2. Add Continues resolution like ping's -t option.
