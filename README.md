@@ -43,5 +43,5 @@ resolved facebook.com to 157.240.15.35 resolution_seq=5 time=2.491492ms
 
 # Roadmap
 
-⋅⋅1. Add Maximum, Minimum and Average Resolution time.
-⋅⋅2. Add Continues resolution like ping's -t option.
+1. Add Maximum, Minimum and Average Resolution time.
+2. Add Continues resolution like ping's -t option.
